@@ -1,0 +1,23 @@
+{
+  "name": "itzzneo13",
+  "version": "1.0.0",
+  "description": "A commnd line profile card that can be accessed globally via a single command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "homepage": "https://itzzneo13.netlify.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItzzNeo13/npm-card"
+  },
+  "type": "module",
+  "bin": "index.js",
+  "keywords": [],
+  "author": "ItzzNeo13",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3"
+  }
+}
